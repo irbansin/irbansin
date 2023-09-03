@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irbansin
 - 👀 I’m interested in Web Applications and Algorithms
-- 🌱 I’m currently learning React, Nestjs, Full stack Development
-- 💞️ I’m looking to collaborate on any project that involves Jacascript
+- 🌱 I’m a professional Fullstack developer specializing in Angular, React, NodeJS and Java
+- 💞️ I’m an AI enthusiast. 
 - 📫 reach me at anirbansinha.in
 
